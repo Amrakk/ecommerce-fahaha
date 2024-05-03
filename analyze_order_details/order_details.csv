@@ -1,0 +1,201 @@
+order_details_id,order_id,product_id,product_name,product_price,product_sales_quantity,created_at,updated_at
+1,1,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+2,1,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+3,2,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+4,2,65,Banana Fish - Tập 20,2,1,NULL,NULL
+5,3,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+6,3,67,Ninja Rantaro - Tập 26,2,2,NULL,NULL
+7,4,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+8,4,65,Banana Fish - Tập 20,2,1,NULL,NULL
+9,5,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+10,5,65,Banana Fish - Tập 20,2,2,NULL,NULL
+11,6,63,Đường Xa Nắng Mới,8,3,NULL,NULL
+12,6,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+13,7,65,Banana Fish - Tập 20,2,2,NULL,NULL
+14,7,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+15,8,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+16,8,65,Banana Fish - Tập 20,2,1,NULL,NULL
+17,9,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+18,9,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,1,NULL,NULL
+19,10,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,2,NULL,NULL
+20,10,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+21,11,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+22,11,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+23,12,65,Banana Fish - Tập 20,2,1,NULL,NULL
+24,12,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,2,NULL,NULL
+25,13,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,3,NULL,NULL
+26,13,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+27,14,65,Banana Fish - Tập 20,2,1,NULL,NULL
+28,14,67,Ninja Rantaro - Tập 26,2,2,NULL,NULL
+29,15,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,2,NULL,NULL
+30,15,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+31,16,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+32,16,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+33,17,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,3,NULL,NULL
+34,17,65,Banana Fish - Tập 20,2,1,NULL,NULL
+35,18,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+36,18,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+37,19,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+38,19,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+39,20,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+40,20,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+41,21,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+42,21,65,Banana Fish - Tập 20,2,1,NULL,NULL
+43,22,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,1,NULL,NULL
+44,22,67,Ninja Rantaro - Tập 26,2,2,NULL,NULL
+45,23,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+46,23,65,Banana Fish - Tập 20,2,1,NULL,NULL
+47,24,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+48,24,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+49,25,65,Banana Fish - Tập 20,2,2,NULL,NULL
+50,25,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+51,26,65,Banana Fish - Tập 20,2,3,NULL,NULL
+52,26,67,Ninja Rantaro - Tập 26,2,2,NULL,NULL
+53,27,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+54,27,63,Đường Xa Nắng Mới,8,3,NULL,NULL
+55,27,65,Banana Fish - Tập 20,2,1,NULL,NULL
+56,28,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+57,28,65,Banana Fish - Tập 20,2,3,NULL,NULL
+58,29,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+59,29,65,Banana Fish - Tập 20,2,1,NULL,NULL
+60,30,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+61,30,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+62,30,65,Banana Fish - Tập 20,2,3,NULL,NULL
+63,31,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+64,31,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+65,32,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,2,NULL,NULL
+66,32,65,Banana Fish - Tập 20,2,3,NULL,NULL
+67,32,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+68,33,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,3,NULL,NULL
+69,33,65,Banana Fish - Tập 20,2,2,NULL,NULL
+70,33,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+71,34,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,3,NULL,NULL
+72,34,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+73,35,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+74,35,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+75,36,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+76,36,65,Banana Fish - Tập 20,2,2,NULL,NULL
+77,36,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,3,NULL,NULL
+78,37,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+79,37,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,3,NULL,NULL
+80,37,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+81,38,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,2,NULL,NULL
+82,38,65,Banana Fish - Tập 20,2,1,NULL,NULL
+83,39,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,3,NULL,NULL
+84,39,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+85,39,67,Ninja Rantaro - Tập 26,2,3,NULL,NULL
+86,40,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+87,40,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+88,41,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+89,41,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,2,NULL,NULL
+90,41,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,3,NULL,NULL
+91,41,65,Banana Fish - Tập 20,2,4,NULL,NULL
+92,42,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+93,42,63,Đường Xa Nắng Mới,8,3,NULL,NULL
+94,43,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+95,43,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+96,43,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,3,NULL,NULL
+97,44,65,Banana Fish - Tập 20,2,3,NULL,NULL
+98,44,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+99,45,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+100,45,65,Banana Fish - Tập 20,2,2,NULL,NULL
+101,45,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+102,46,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+103,46,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+104,47,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+105,47,63,Đường Xa Nắng Mới,8,1,NULL,NULL
+106,47,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,3,NULL,NULL
+107,48,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+108,48,65,Banana Fish - Tập 20,2,1,NULL,NULL
+109,48,67,Ninja Rantaro - Tập 26,2,3,NULL,NULL
+110,49,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+111,49,65,Banana Fish - Tập 20,2,3,NULL,NULL
+112,50,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+113,50,65,Banana Fish - Tập 20,2,1,NULL,NULL
+114,51,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+115,51,65,Banana Fish - Tập 20,2,1,NULL,NULL
+116,51,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+117,52,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+118,52,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+119,53,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+120,53,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+121,53,65,Banana Fish - Tập 20,2,1,NULL,NULL
+122,54,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+123,54,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+124,54,65,Banana Fish - Tập 20,2,1,NULL,NULL
+125,55,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+126,55,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+127,55,65,Banana Fish - Tập 20,2,1,NULL,NULL
+128,56,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+129,56,65,Banana Fish - Tập 20,2,2,NULL,NULL
+130,56,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+131,57,65,Banana Fish - Tập 20,2,2,NULL,NULL
+132,57,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+133,58,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+134,58,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+135,58,65,Banana Fish - Tập 20,2,2,NULL,NULL
+136,58,66,Thấu Hiểu Tiếp Thị Từ A Đến Z - 80 Khái Niệm Nhà Quản Lý Cần Biết,4,1,NULL,NULL
+137,59,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+138,59,67,Ninja Rantaro - Tập 26,2,2,NULL,NULL
+139,60,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+140,60,63,Đường Xa Nắng Mới,8,1,NULL,NULL
+141,60,65,Banana Fish - Tập 20,2,2,NULL,NULL
+142,61,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+143,61,63,Đường Xa Nắng Mới,8,1,NULL,NULL
+144,61,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+145,62,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+146,62,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,1,NULL,NULL
+147,62,65,Banana Fish - Tập 20,2,2,NULL,NULL
+148,62,67,Ninja Rantaro - Tập 26,2,1,NULL,NULL
+149,63,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+150,63,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+151,63,65,Banana Fish - Tập 20,2,2,NULL,NULL
+152,64,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+153,64,65,Banana Fish - Tập 20,2,1,NULL,NULL
+154,65,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+155,65,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+156,65,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+157,66,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+158,66,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+159,66,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+160,66,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+161,67,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+162,67,63,Đường Xa Nắng Mới,8,1,NULL,NULL
+163,67,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+164,68,59,Attack On Titan - Tập 5,2,1,NULL,NULL
+165,68,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+166,68,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,3,NULL,NULL
+167,68,65,Banana Fish - Tập 20,2,1,NULL,NULL
+168,69,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+169,69,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+170,69,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+171,69,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+172,70,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+173,70,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,1,NULL,NULL
+174,70,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+175,70,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,2,NULL,NULL
+176,71,59,Attack On Titan - Tập 5,2,3,NULL,NULL
+177,71,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+178,71,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+179,71,65,Banana Fish - Tập 20,2,1,NULL,NULL
+180,72,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,1,NULL,NULL
+181,72,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+182,72,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+183,72,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+184,73,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+185,73,61,Dạo Chơi Cùng Toán Học - Trò Chơi Dán Giấy,2,1,NULL,NULL
+186,73,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+187,73,65,Banana Fish - Tập 20,2,1,NULL,NULL
+188,74,58,Khéo Ăn Nói Sẽ Có Được Thiên Hạ,2.99,2,NULL,NULL
+189,74,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+190,74,62,Đập Chắn Thái Bình Dương,9,2,NULL,NULL
+191,74,65,Banana Fish - Tập 20,2,1,NULL,NULL
+192,75,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,2,NULL,NULL
+193,75,62,Đập Chắn Thái Bình Dương,9,1,NULL,NULL
+194,75,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+195,75,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+196,76,59,Attack On Titan - Tập 5,2,2,NULL,NULL
+197,76,60,Trump - Đừng Bao Giờ Bỏ Cuộc,2,1,NULL,NULL
+198,76,63,Đường Xa Nắng Mới,8,2,NULL,NULL
+199,76,64,Viết Sao Cho Hay, Bán Sao Cho Chạy?,16,1,NULL,NULL
+200,77,59,Attack On Titan - Tập 5,2,3,NULL,NULL

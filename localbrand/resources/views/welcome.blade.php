@@ -271,57 +271,21 @@
 					<div class="col-sm-7">
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="https://www.facebook.com/kietngtht99">
-									<div class="iframe-img">
-										<img src="{{asset('public/frontend/images/iframe1.png')}}" alt="" />
-									</div>
-									<div class="overlay-icon">
-										<i class="fa fa-play-circle-o"></i>
-									</div>
-								</a>
-								<p>Kiet Nguyen</p>
 							</div>
 						</div>
 
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="https://www.facebook.com/qd1808">
-									<div class="iframe-img">
-										<img src="{{asset('public/frontend/images/iframe2.png')}}" alt="" />
-									</div>
-									<div class="overlay-icon">
-										<i class="fa fa-play-circle-o"></i>
-									</div>
-								</a>
-								<p>Quang Duy</p>
 							</div>
 						</div>
 
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="https://www.facebook.com/trungkien.tran.165685">
-									<div class="iframe-img">
-										<img src="{{asset('public/frontend/images/iframe3.png')}}" alt="" />
-									</div>
-									<div class="overlay-icon">
-										<i class="fa fa-play-circle-o"></i>
-									</div>
-								</a>
-								<p>Kien Tran</p>
 							</div>
 						</div>
 
 						<div class="col-sm-3">
 							<div class="video-gallery text-center">
-								<a href="https://www.google.com/maps/dir//10+Gò+Dầu,+Tân+Sơn+Nhì,+Tân+Phú,+Thành+phố+Hồ+Chí+Minh/@10.7951396,106.5586523,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x31752b9ead0b46dd:0xc182246bc6f2951d!2m2!1d106.6287502!2d10.7952312">
-									<div class="iframe-img">
-										<img src="{{asset('public/frontend/images/iframe4.png')}}" alt="" />
-									</div>
-									<div class="overlay-icon">
-										<i class="fa fa-play-circle-o"></i>
-									</div>
-								</a>
-								<p>MAP</p>
 							</div>
 						</div>
 					</div>
